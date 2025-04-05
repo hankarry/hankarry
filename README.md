@@ -1,4 +1,4 @@
-## Hi there 👋
+# 寄吧咸鱼一个，看什么看！有什么看的！再看我就能憋出代码了？
 
 <!--
 **hankarry/hankarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
